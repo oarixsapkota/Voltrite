@@ -18,4 +18,4 @@ git clone https://gitea.com/oarix/Voltrite.git
 
 ## License
 
-This templet is licensed under the **Custom MIT License**. See the [license](license) file for details.
+This templet is licensed under the **Custom MIT License**. See the [license](LICENSE) file for details.
